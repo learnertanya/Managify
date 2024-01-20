@@ -1,0 +1,1 @@
+//# sourceMappingURL=offer.model.js.map
